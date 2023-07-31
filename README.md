@@ -1,2 +1,1 @@
-# tiktokAPIFindings
-My tiktok API findings + Useful info
+My findings when reverse engineering the TikTok API
